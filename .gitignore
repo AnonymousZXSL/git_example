@@ -1,0 +1,7 @@
+# folder logs , ignore all files inside
+logs/
+
+# all files in folder docs with extension txt are ignored
+docs/*.txt
+
+configg/*.html
