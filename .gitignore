@@ -4,4 +4,5 @@ logs/
 # all files in folder docs with extension txt are ignored
 docs/*.txt
 
-configg/*.html
+# all files in folder configg with extension .html are ignored
+configg/*.html 
