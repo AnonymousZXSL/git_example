@@ -17,4 +17,5 @@ while($myInb = mysqli_fetch_array($inboxMessages)){
 asdsadsd
 asdsadsd
 asdsadsd
-3333333333
+3333333333asdasdasd
+asdasd
