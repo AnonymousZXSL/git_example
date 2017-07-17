@@ -14,10 +14,10 @@ while($myInb = mysqli_fetch_array($inboxMessages)){
 }
 ?>
 
-asdsadsd
-asdsadsd
-asdsadsd
-3333333333asdasdasd
-asdasd
-sadasdasd 
-333333
+77777777777777
+77777777777777
+77777777777777
+77777777777777
+77777777777777
+77777777777777
+77777777777777
