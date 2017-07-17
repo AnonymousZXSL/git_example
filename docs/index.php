@@ -1,6 +1,5 @@
 <?php
 
-	echo "Hello World NEWVETKA 4  !!!";
-	echo "NEWVETKA 4  !!!";
+	echo " 4444444444444444  !!!"
 
 ?>
